@@ -1,16 +1,16 @@
-## Hi there 👋
+# Привет 👋
 
-<!--
-**xossse/xossse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Я руководитель отдела разработки / fullstack-разработчик.
 
-Here are some ideas to get you started:
+👨‍💻 Работаю над внутренними сервисами, связанными с финансовыми транзакциями, автоматизацией процессов и инфраструктурой.  
+⚙️ Использую Python, Vue3, Kubernetes, Docker, Tailwind, gRPC, PostgreSQL / Percona.  
+🚀 Разворачиваю проекты в GCP и управляю CI/CD через GitHub Actions или GitLab.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 📫 Контакты
+
+По вопросам найма и сотрудничества:  
+📧 [dev-gk@kusaka.email](mailto:dev-gk@kusaka.email)
+
+---
